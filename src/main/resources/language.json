@@ -1,0 +1,24 @@
+{
+  "name": "name",
+  "description": "description",
+  "rating": 32,
+  "projects": [
+    "computer language",
+    "Data Migration"
+  ],
+  "address": {
+    "street": "Yorckstr. 75",
+    "city": "Berlin",
+    "zipcode": 10965,
+    "country": "Germany"
+  },
+  "paymentMethods": [
+    "PayPal",
+    "Stripe"
+  ],
+  "profileInfo": {
+    "gender": "Male",
+    "married": "Yes",
+    "source": "LinkedIn"
+  }
+}
